@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: lucasdockerrp/lucas-repositore:ea38fda
+          image: lucasdockerrp/lucas-repositore:d96e85b
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
